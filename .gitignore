@@ -1,0 +1,15 @@
+# Vivado project and simulation artifacts
+.Xil/
+xsim.dir/
+*.jou
+*.log
+*.pb
+*.str
+*.wdb
+*.wcfg
+*.swp
+
+# Keep only reproducible Vivado IP configuration files
+**/ip/**
+!**/ip/**/
+!**/ip/**/*.xci

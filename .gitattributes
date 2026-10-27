@@ -1,0 +1,6 @@
+* text=auto
+*.vhd text eol=lf
+*.tcl text eol=lf
+*.xci text eol=lf
+*.md text eol=lf
+
